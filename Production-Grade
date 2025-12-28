@@ -113,8 +113,27 @@ Debugging — System Logs & Process Inspection | When training jobs die at 2 a.m
 PHASE 1 — Math Intuition (You don’t need proofs, you need instinct)
 -----------------------------------------------------------------------
 Linear Algebra — Vectors, Matrices | ML models are linear algebra. If this feels abstract, models will feel like magic — and magic fails silently.
+  00:00:00 — Why Linear Algebra Feels Scary (And Why It Shouldn’t)
+  00:01:20 — Vectors & the Dot Product (Similarity Engine)
+  00:06:51 — Linear Systems: Ax = b & Gaussian Elimination
+  00:12:30 — Vector Spaces, Span & Basis (Rules of the World)
+  00:18:15 — Linear Transformations (Matrices Are Actions)
+  00:23:25 — Determinants (One Number That Tells Everything)
+  00:28:57 — Conclusion & What This Unlocks Next
 Optimization — Gradient Descent | Training is optimization. No intuition here = no intuition for convergence, divergence, or learning rates.
+  Momentum Gradient Descent
+  Stochastic Gradient Descent
+  Gradient Descent
 Neural Nets — Fundamentals | Even if you don’t build them, you’ll debug, deploy, and monitor them.
+  What a Neural Network Actually Is
+  Learning Mechanism: Gradient Descent
+  Backpropagation (Intuition First)
+  Backpropagation (Math Reality Check)
+  What LLMs Are (High-Level Reality)
+  Transformers: The Real Breakthrough
+  Attention Mechanism (Step-by-Step)
+  How LLMs Store “Facts”
+  How AI Generates Images & Video
 Probability — Distributions | Uncertainty is the entire game. Predictions without probability thinking are lies.
 Calculus — Differential / Integral / Multivariable | Backprop, loss surfaces, gradients — this is the language models speak.
 
