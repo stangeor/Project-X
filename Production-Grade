@@ -1,6 +1,6 @@
 PHASE 0 — Prerequisites (If this is weak, everything collapses)
 -------------------------------------------------------------------
-OS & Debugging — Linux | Production runs on Linux. If you can’t navigate processes, permissions, filesystems, you are helpless when things break.
+OS & Debugging — Linux — Production runs on Linux. If you can’t navigate processes, permissions, filesystems, you are helpless when things break.
   00:00:00 - Course Orientation & Why Linux / CLI Matters
   00:15:00 - Terminals, Shells & CLI Fundamentals
   00:30:00 - Shell Productivity & Command History
@@ -12,9 +12,27 @@ OS & Debugging — Linux | Production runs on Linux. If you can’t navigate pro
   02:00:00 - Programs, Execution & PATH
   02:15:00 - Input / Output & Process Control
   02:30:00 - Unix Philosophy & Package Management
-Version Control — Git & GitHub | This is not optional collaboration hygiene. It’s how experiments, pipelines, infra, and rollbacks survive reality.
-Programming — Python | ML is Python-first. Even when performance-critical parts aren’t, orchestration and glue code are.
-Environments — Virtual Environments | Dependency hell kills teams. Reproducibility starts here, not with Docker.
+Version Control — Git & GitHub — This is not optional collaboration hygiene. It’s how experiments, pipelines, infra, and rollbacks survive reality.
+ 00:00:00 - What Git Is (and Is Not)
+ 00:15:00 - Repositories, States & Daily Commands
+ 00:30:00 - Commits, History & Internals (Mental Model)
+ 00:45:00 - Branching (The Only Definition That Matters)
+ 01:00:00 - git log Mastery & Branch Internals
+ 01:15:00 - Merge Commits & Merge Base
+ 01:30:00 - Fast-Forward vs True Merge
+ 01:45:00 - Rebase Fundamentals (Mental Model)
+ 02:00:00 - Merging, Pulls & Diverging Branches
+ 02:15:00 - Pull Requests, Solo vs Team Workflow
+ 02:30:00 - .gitignore Deep Dive
+ 02:45:00 - Local Ignores, Generated Files & Cleanup
+ 03:00:00 - Conflict Resolution: ours vs theirs
+ 03:15:00 - Rebase Conflicts (Why Roles Flip)
+ 03:30:00 - rerere, Squash & History Surgery
+ 03:45:00 - Stash, Revert, Cherry-Pick & Bisect
+ 04:00:00 - Bisect (Find the Bug, Fast)
+ 04:15:00 - Worktrees + Tags (Parallel Work & Releases)
+Programming — Python — ML is Python-first. Even when performance-critical parts aren’t, orchestration and glue code are.
+Environments — Virtual Environments — Dependency hell kills teams. Reproducibility starts here, not with Docker.
 Databases — SQL | Data doesn’t magically appear as CSVs. SQL is how you interrogate reality.
 Debugging — System Logs & Process Inspection | When training jobs die at 2 a.m., logs are the only truth you get.
 
