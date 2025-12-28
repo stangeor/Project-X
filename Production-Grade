@@ -140,7 +140,16 @@ Calculus — Differential / Integral / Multivariable | Backprop, loss surfaces, 
 PHASE 2 — ML Theory Foundations (This separates engineers from button-clickers)
 -----------------------------------------------------------------------------------
 ML Framework — scikit-learn | Baseline models. Sanity checks. Fast iteration. If your deep model can’t beat this, stop.
+  00:00:00— Overview & ML Workflow (What This Video Covers)
+  00:15:00 — Working with Datasets in Scikit-Learn (Load, Fetch, Generate)
+  00:30:00 — Data Splitting Strategies (Train/Test, Stratified Splits)
+  00:45:00 — Data Preprocessing (Scaling, Encoding, Feature Prep)
+  01:00:00 — Supervised Learning (Classification & Regression)
+  01:15:00 — Unsupervised Learning & Dimensionality Reduction
+  01:30:00 — Model Evaluation, Tuning & Pipelines (Metrics, CV, GridSearch)
 Regression — Linear Regression | The “hello world” of modeling — and shockingly effective in real systems.
+  00:00:00 — Linear Regression — Theory & Optimization
+  00:15:00 — Coding Linear Regression From Scratch
 Tree Models — Decision Trees | Interpretability and non-linearity without neural complexity.
 Ensembles — Random Forests | Bias reduction without fragile tuning.
 Metrics — Accuracy, Precision, Recall, F1 | Wrong metric = wrong business decision = wasted model.
