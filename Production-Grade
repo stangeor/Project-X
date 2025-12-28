@@ -1,19 +1,19 @@
 PHASE 0 — Prerequisites (If this is weak, everything collapses)
 -------------------------------------------------------------------
-OS & Debugging — Linux Production runs on Linux. If you can’t navigate processes, permissions, filesystems, you are helpless when things break.
-Version Control — Git & GitHub This is not optional collaboration hygiene. It’s how experiments, pipelines, infra, and rollbacks survive reality.
-Programming — Python ML is Python-first. Even when performance-critical parts aren’t, orchestration and glue code are.
-Environments — Virtual Environments Dependency hell kills teams. Reproducibility starts here, not with Docker.
-Databases — SQL Data doesn’t magically appear as CSVs. SQL is how you interrogate reality.
-Debugging — System Logs & Process Inspection When training jobs die at 2 a.m., logs are the only truth you get.
+OS & Debugging — Linux | Production runs on Linux. If you can’t navigate processes, permissions, filesystems, you are helpless when things break.
+Version Control — Git & GitHub | This is not optional collaboration hygiene. It’s how experiments, pipelines, infra, and rollbacks survive reality.
+Programming — Python | ML is Python-first. Even when performance-critical parts aren’t, orchestration and glue code are.
+Environments — Virtual Environments | Dependency hell kills teams. Reproducibility starts here, not with Docker.
+Databases — SQL | Data doesn’t magically appear as CSVs. SQL is how you interrogate reality.
+Debugging — System Logs & Process Inspection | When training jobs die at 2 a.m., logs are the only truth you get.
 
 PHASE 1 — Math Intuition (You don’t need proofs, you need instinct)
 -----------------------------------------------------------------------
-Linear Algebra — Vectors, Matrices ML models are linear algebra. If this feels abstract, models will feel like magic — and magic fails silently.
-Optimization — Gradient Descent Training is optimization. No intuition here = no intuition for convergence, divergence, or learning rates.
-Neural Nets — Fundamentals Even if you don’t build them, you’ll debug, deploy, and monitor them.
-Probability — Distributions Uncertainty is the entire game. Predictions without probability thinking are lies.
-Calculus — Differential / Integral / Multivariable Backprop, loss surfaces, gradients — this is the language models speak.
+Linear Algebra — Vectors, Matrices | ML models are linear algebra. If this feels abstract, models will feel like magic — and magic fails silently.
+Optimization — Gradient Descent | Training is optimization. No intuition here = no intuition for convergence, divergence, or learning rates.
+Neural Nets — Fundamentals | Even if you don’t build them, you’ll debug, deploy, and monitor them.
+Probability — Distributions | Uncertainty is the entire game. Predictions without probability thinking are lies.
+Calculus — Differential / Integral / Multivariable | Backprop, loss surfaces, gradients — this is the language models speak.
 
 PHASE 2 — ML Theory Foundations (This separates engineers from button-clickers)
 -----------------------------------------------------------------------------------
