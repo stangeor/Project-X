@@ -93,17 +93,17 @@ Orchestration (Alt) — Prefect More Pythonic, less ops-heavy alternative.
 
 PHASE 10 — LLMOps (Modern ML reality)
 -----------------------------------------
-Inference Engines — vLLM / Triton Serving LLMs efficiently is a different game.
-Optimization — Quantization Inference costs matter more than training.
-Vector Search — Vector Databases RAG doesn’t work without this.
-Serving — FastAPI Models are APIs, not notebooks.
-LLM Monitoring — LangSmith / Arize LLMs fail in creative, dangerous ways.
+Inference Engines — vLLM / Triton | Serving LLMs efficiently is a different game.
+Optimization — Quantization | Inference costs matter more than training.
+Vector Search — Vector Databases | RAG doesn’t work without this.
+Serving — FastAPI | Models are APIs, not notebooks.
+LLM Monitoring — LangSmith / Arize | LLMs fail in creative, dangerous ways.
 
 PHASE 11 — Portfolio (Proof beats certificates)
 ---------------------------------------------------
-Reproducibility — Docker Anyone should be able to run your work.
-Orchestration — Airflow Shows system-level thinking.
-ML Lifecycle — MLflow Demonstrates experiment discipline.
-Cloud ML — Azure ML Signals production readiness.
-Monitoring — Observability Stack Shows you understand failure.
-Cost Tracking — Dashboards Senior engineers think in money.
+Reproducibility — Docker | Anyone should be able to run your work.
+Orchestration — Airflow | Shows system-level thinking.
+ML Lifecycle — MLflow | Demonstrates experiment discipline.
+Cloud ML — Azure ML | Signals production readiness.
+Monitoring — Observability | Stack Shows you understand failure.
+Cost Tracking — Dashboards | Senior engineers think in money.
