@@ -1,17 +1,17 @@
 PHASE 0 — Prerequisites (If this is weak, everything collapses)
 -------------------------------------------------------------------
 OS & Debugging — Linux — Production runs on Linux. If you can’t navigate processes, permissions, filesystems, you are helpless when things break.
-  00:00:00 - Course Orientation & Why Linux / CLI Matters
-  00:15:00 - Terminals, Shells & CLI Fundamentals
-  00:30:00 - Shell Productivity & Command History
-  00:45:00 - Filesystem Basics & Navigation
-  01:00:00 - File Inspection & Text Viewing
-  01:15:00 - File & Directory Manipulation
-  01:30:00 - Search & Discovery Tools
-  01:45:00 - Users, Permissions & Security
-  02:00:00 - Programs, Execution & PATH
-  02:15:00 - Input / Output & Process Control
-  02:30:00 - Unix Philosophy & Package Management
+ 00:00:00 - Course Orientation & Why Linux / CLI Matters
+ 00:15:00 - Terminals, Shells & CLI Fundamentals
+ 00:30:00 - Shell Productivity & Command History
+ 00:45:00 - Filesystem Basics & Navigation
+ 01:00:00 - File Inspection & Text Viewing
+ 01:15:00 - File & Directory Manipulation
+ 01:30:00 - Search & Discovery Tools
+ 01:45:00 - Users, Permissions & Security
+ 02:00:00 - Programs, Execution & PATH
+ 02:15:00 - Input / Output & Process Control
+ 02:30:00 - Unix Philosophy & Package Management
 Version Control — Git & GitHub — This is not optional collaboration hygiene. It’s how experiments, pipelines, infra, and rollbacks survive reality.
  00:00:00 - What Git Is (and Is Not)
  00:15:00 - Repositories, States & Daily Commands
