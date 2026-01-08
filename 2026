@@ -4,3 +4,9 @@ you get respected for your usefulness, not by behaviour.
 you get authority by results, not by being loud about it.
 NE is where people plan to age.
 NW is where people hope money will save them.
+Q: What flag is required to copy directories?
+A: -R (capital R).
+Q: Why is the capital -R important to remember?
+A: It differs from rm -r.
+Q: What is a user’s home directory?
+A: The directory for personal files.
