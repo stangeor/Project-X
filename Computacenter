@@ -29,3 +29,25 @@ Notifications
 Trigger conditions
 Suppression logic
 Audit impact
+LEVEL 3 — INFRASTRUCTURE
+Compute
+Windows vs Linux implications
+Virtual vs physical servers
+High availability basics
+Network
+DNS resolution
+IP addressing basics
+VPN failure scenarios
+Firewall rule logic
+Cloud (Conceptual)
+IaaS vs PaaS vs SaaS
+Shared responsibility model
+Identity in cloud environments
+End-User Computing
+Laptops, VDI, MFA
+Device compliance
+Remote access risks
+Monitoring
+Alerts vs incidents
+False positives
+Auto-ticket creation
