@@ -17,12 +17,12 @@
 0.1.5.2 Handling regression, rework, and audit findings
 0.2 Ambiguity Elimination
 0.2.1 Sources of Ambiguity
-Stakeholder language vs system reality
-Implicit assumptions and tribal knowledge
+0.2.1.1 Stakeholder language vs system reality
+0.2.1.2 Implicit assumptions and tribal knowledge
 0.2.2 Techniques to Surface Ambiguity
-Rule decomposition
-Scenario expansion
-Edge-case interrogation
+0.2.2.1 Rule decomposition
+0.2.2.2 Scenario expansion
+0.2.2.3 Edge-case interrogation
 0.2.3 Writing to Eliminate Interpretation
 Deterministic language standards
 One-requirement–one-behavior principle
