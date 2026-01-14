@@ -1,8 +1,76 @@
 0. Ownership & Delivery Identity
 0.1 Accountability Mindset
+0.1.1 Definition of BA Accountability in Managed Services
+0.1.1.1 Difference between responsibility and ownership
+0.1.1.2 Accountability across build, test, and run phases
+0.1.2 Accountability Boundaries
+What the BA owns vs what the BA influences
+Where “not my role” becomes failure
+0.1.3 Outcome-Based Accountability
+Measuring success via operational outcomes
+SLA, stability, and usability as success metrics
+0.1.4 Accountability During Incidents
+BA role in P1 / Major Incident scenarios
+Decision-making under pressure
+0.1.5 Accountability Across Time
+Ownership beyond go-live
+Handling regression, rework, and audit findings
 0.2 Ambiguity Elimination
+0.2.1 Sources of Ambiguity
+Stakeholder language vs system reality
+Implicit assumptions and tribal knowledge
+0.2.2 Techniques to Surface Ambiguity
+Rule decomposition
+Scenario expansion
+Edge-case interrogation
+0.2.3 Writing to Eliminate Interpretation
+Deterministic language standards
+One-requirement–one-behavior principle
+0.2.4 Ambiguity Risk Management
+Identifying high-risk ambiguous areas
+Prioritizing clarification based on SLA and security impact
+0.2.5 Ambiguity in Agile Environments
+Managing evolving requirements without losing precision
+Preventing “we’ll figure it out later” failures
 0.3 Ops-First Responsibility
+0.3.1 Understanding Operations Reality
+24×7 support constraints
+Shift-based execution and handovers
+0.3.2 Designing for the 2 AM Scenario
+Decision-making under fatigue
+Reduced context availability
+0.3.3 Protecting Operations from Bad Design
+Identifying requirements that overload ops
+Automation vs manual control trade-offs
+0.3.4 Ops Feedback Integration
+Capturing and incorporating operational pain points
+Closing the loop post-incident
+0.3.5 Ops-Safe Documentation Standards
+Writing for on-call readability
+Playbook-style clarity
 0.4 Failure Ownership Principle
+0.4.1 Redefining Failure
+Functional success vs operational failure
+Silent failures and delayed impact
+0.4.2 Failure Anticipation
+Identifying likely failure modes
+Designing for degradation and fallback
+0.4.3 Failure Traceability
+Linking failures back to requirements
+Post-incident requirement audits
+0.4.4 Failure Communication
+Transparent reporting during incidents
+Avoiding blame-shifting language
+0.4.5 Continuous Improvement Through Failure
+Turning incidents into requirement improvements
+Institutionalizing lessons learned
+0.5 Section Exit Criteria (Pass / Fail)
+A BA passes Section 0 if:
+Ops trusts their documents
+Ambiguity is proactively eliminated
+Incidents don’t reveal requirement gaps
+Accountability is visible, not claimed
+Fail here → no progression to Section 1.
 
 1. ITSM & ITIL — Operational Mastery
 1.1 Incident Management (Priority, SLA, Major Incidents)
