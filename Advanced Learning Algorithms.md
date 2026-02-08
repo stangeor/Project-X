@@ -1,4 +1,4 @@
-Neural Networks Intuition
+Neural Networks Intuition 
 1.1 Practice Quiz: Neural Networks Intuition
 1.2 Graded Assignment: Neural Networks Intuition
 
