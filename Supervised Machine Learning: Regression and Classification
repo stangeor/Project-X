@@ -1,0 +1,105 @@
+1. Overview of Machine Learning
+1.1 Welcome to machine learning
+1.2 Applications of machine learning
+1.3 Intake survey
+1.4 Course forum introduction
+
+2. Supervised vs Unsupervised Machine Learning
+2.1 What is machine learning
+2.2 Supervised learning
+  2.2.1 Supervised learning part 1
+  2.2.2 Supervised learning part 2
+2.3 Unsupervised learning
+  2.3.1 Unsupervised learning part 1
+  2.3.2 Unsupervised learning part 2
+2.4 Jupyter notebooks overview
+2.5 Python and Jupyter notebooks lab
+2.6 Practice quiz and graded assignment
+
+3. Regression Model (Linear Regression Basics)
+3.1 Linear regression model
+  3.1.1 Model part 1
+  3.1.2 Model part 2
+3.2 Model representation lab (optional)
+3.3 Cost function
+  3.3.1 Cost function formula
+  3.3.2 Cost function intuition
+  3.3.3 Visualizing the cost function
+  3.3.4 Visualization examples
+3.4 Cost function lab (optional)
+3.5 Practice quiz and graded assignment
+
+4. Training the Model with Gradient Descent
+4.1 Gradient descent concept
+4.2 Implementing gradient descent
+4.3 Gradient descent intuition
+4.4 Learning rate
+4.5 Gradient descent for linear regression
+4.6 Running gradient descent
+4.7 Gradient descent lab (optional)
+4.8 Practice quiz and graded assignment
+
+5. Multiple Linear Regression
+5.1 Multiple features
+5.2 Vectorization
+  5.2.1 Vectorization part 1
+  5.2.2 Vectorization part 2
+5.3 Python, NumPy, and vectorization lab (optional)
+5.4 Gradient descent for multiple linear regression
+5.5 Multiple linear regression lab (optional)
+5.6 Practice quiz and graded assignment
+
+6. Gradient Descent in Practice
+6.1 Feature scaling
+  6.1.1 Feature scaling part 1
+  6.1.2 Feature scaling part 2
+6.2 Checking gradient descent convergence
+6.3 Choosing the learning rate
+6.4 Feature scaling and learning rate lab (optional)
+6.5 Feature engineering
+6.6 Polynomial regression
+6.7 Feature engineering and polynomial regression lab (optional)
+6.8 Linear regression with scikit-learn lab (optional)
+6.9 Practice quiz and graded assignment
+6.10 Week 2 practice lab: Linear regression
+
+7. Classification with Logistic Regression
+7.1 Motivation for classification
+7.2 Classification lab (optional)
+7.3 Logistic regression
+7.4 Sigmoid function and logistic regression lab (optional)
+7.5 Decision boundary
+7.6 Decision boundary lab (optional)
+7.7 Practice quiz and graded assignment
+
+8. Cost Function for Logistic Regression
+8.1 Logistic regression cost function
+8.2 Logistic loss lab (optional)
+8.3 Simplified cost function
+8.4 Cost function lab (optional)
+8.5 Practice quiz and graded assignment
+
+9. Gradient Descent for Logistic Regression
+9.1 Gradient descent implementation
+9.2 Gradient descent lab (optional)
+9.3 Logistic regression with scikit-learn lab (optional)
+9.4 Practice quiz and graded assignment
+
+10. The Problem of Overfitting
+10.1 Understanding overfitting
+10.2 Addressing overfitting
+10.3 Overfitting lab (optional)
+10.4 Cost function with regularization
+10.5 Regularized linear regression
+10.6 Regularized logistic regression
+10.7 Regularization lab (optional)
+10.8 Practice quiz and graded assignment
+
+11. Practice Labs and Course Wrap-up
+11.1 End of access to lab notebooks reminder
+11.2 Week 3 practice lab: Logistic regression
+
+12. Conversations with Andrew (Optional)
+12.1 Andrew Ng and Fei-Fei Li on Human-Centered AI
+
+13. Acknowledgments
