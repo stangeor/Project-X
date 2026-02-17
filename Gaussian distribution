@@ -34,3 +34,5 @@ def select_threshold(y_val, p_val):
             best_epsilon = epsilon
         
     return best_epsilon, best_F1
+
+This function performs threshold tuning for anomaly detection by iterating over candidate epsilon values and selecting the one that maximizes the F1 score on a validation set. It uses brute-force search over 1000 evenly spaced thresholds within the probability range.
