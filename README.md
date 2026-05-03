@@ -173,4 +173,4 @@ Potential improvements:
 
 ## 📝 Licence
 
-This project is for educational purposes. The MovieLens dataset is provided by GroupLens under their own [terms of use](https://grouplens.org/datasets/movielens/100k/).
+The MovieLens dataset is provided by GroupLens under their own [terms of use](https://grouplens.org/datasets/movielens/100k/).
